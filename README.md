@@ -6,6 +6,11 @@ I'm using Python for the first time to do a thorough analysis of data from the G
 # Google Play Store App Analysis
 As the official app shop for the Android operating system, the Google Play shop is one of the biggest and most well-known Android app stores. Users may browse and download applications created with the Android software development kit and made available through Google using this platform. The Google Play Store dataset, with its enormous volume of data, may be used for analysis and prediction, which can yield insightful results for businesses and app developers.
 
+# Tools
+* Python
+* Google Colab
+* Tableau
+
 # Project Overview
 On the dataset of Google Play Store applications, we want to do data analysis and prediction in this project. 13 distinct characteristics in all may be used to forecast an app's performance utilising a variety of variables. We also have user review information that covers 5 distinct features.
 The analysis is divided into three phases: data extraction, data cleaning, and data visualization.
