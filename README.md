@@ -6,8 +6,10 @@ I'm using Python for the first time to do a thorough analysis of data from the G
 # Google Play Store App Analysis
 As the official app shop for the Android operating system, the Google Play shop is one of the biggest and most well-known Android app stores. Users may browse and download applications created with the Android software development kit and made available through Google using this platform. The Google Play Store dataset, with its enormous volume of data, may be used for analysis and prediction, which can yield insightful results for businesses and app developers.
 
-# Tools
+# Tools And ML Frame work
 * Python
+* Pandas
+* Numpy
 * Google Colab
 * Tableau
 
@@ -29,3 +31,16 @@ What kind of application can you find on the Play Store the most frequently? Wha
 What are the Play Store's most popular categories? What applications have the most reviews been written about? How does the polarity of emotion differ between premium and free apps? What is the review sentiment percentage? Which app category has received the most favourable reviews?
 
 By addressing these commercial goals, we hope to offer insightful information that will help app-creating companies succeed and assist developers in making data-driven choices in order to gain Android market share.
+
+# Tableau Dashboard:
+In addition to the analysis, a Tableau dashboard has been created. The dashboard includes visualizations such as:
+
+* Rating by reviews.
+* Top 5 apps by price.
+* Top 10 apps by rating.
+* Content by rating.
+* Top 10 genres by size and type.
+* Average rating and average installs by app.
+  
+By addressing these commercial goals and providing insightful information, we aim to assist app-creating companies in succeeding and help developers make data-driven choices to gain Android market share.
+
